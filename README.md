@@ -51,7 +51,7 @@ To customize the landing page to match the design inspiration:
 
 1. Replace the content in `index.html` with your own text, images, and links.
 
-2. Modify the styles in `styles/main.css` to match the design elements and layout from the Dribbble shot.
+2. Modify the styles in `style.css` to match the design elements and layout from the Dribbble shot.
 
 3. You can add additional CSS files if necessary for specific components or sections.
 
