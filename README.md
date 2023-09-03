@@ -55,10 +55,6 @@ To customize the landing page to match the design inspiration:
 
 3. You can add additional CSS files if necessary for specific components or sections.
 
-4. Ensure responsiveness by using media queries to adjust styles for different screen sizes.
-
-5. Test the landing page on various devices and browsers to ensure it looks and functions as expected.
-
 ## Deployment
 
 You can deploy your HTML CSS landing page on a web hosting service of your choice, or you can use platforms like GitHub Pages, Netlify, or Vercel for free hosting.
