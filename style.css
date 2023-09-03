@@ -116,7 +116,7 @@ body{
     transform-origin: 0% 0%;
 }
 
-/* .vertical-text h1{
+.vertical-text h1{
     font-family: monument;
     font-size: 85px;
     font-weight: 900;
@@ -125,4 +125,4 @@ body{
     color: transparent;
     text-transform: uppercase;
     letter-spacing: 10px;
-} */
+}
