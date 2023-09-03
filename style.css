@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;600;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body{
+    height: 100%;
+    width: 100%;
+}
+
+#nav {
+    position: absolute;
+    display: flex;
+    width: 450px;
+    align-items: center;
+    justify-content: space-between;
+    left: 5%;
+    top: 5%;
+}
+
+#nav img{
+    height: 50px;
+}
+
+#nav h5 {
+    font-size: 25px;
+    font-family: monument;
+    color: #fff;
+    font-family: 'Oswald', sans-serif;
+}
+
+#main {
+    width: 100%;
+    height: 100%;
+    background-color: #cd9224;
+    display: flex;
+    position: relative;
+    overflow: hidden;
+}
+
+.part1{
+    width: 26%;
+    height: 100%;
+    /* background-color: red; */
+}
+
+.part2{
+    width: 64%;
+    height: 100%;
+    background-image: url(imgs/women-1.jpg);
+    background-size: cover;
+    background-position: center;
+    /* background-color: aqua; */
+}
+
+.part2 .overlay {
+    width: 100%;
+    height: 100%;
+    background-color: hsla(39, 70%, 47%, 0.301);
+}
+
+.part3{
+    width: 10%;
+    height: 100%;
+    /* background-color: chartreuse; */
+}
+
+.text {
+    height: 300px;
+    position: absolute;
+    width: 400px;
+    /* background-color: red; */
+    left: 5%;
+    top: 65%;   
+    transform: translate(0%, -50%);
+}
+
+.text h1 {
+    font-family: monument;
+    text-transform: uppercase;
+    font-size: 100px;
+    font-weight: 900;
+    line-height: 85px;
+    letter-spacing: 5px;
+    color: #fff;
+}
+
+.small-img {
+    width: 300px;
+    height: 400px;
+    background-image: url(imgs/women-2.jpg);
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    top: 50%;
+    right: 5%;
+    transform: translate(0%, -50%);
+}
+
+.small-img .overlay {
+    width: 100%;
+    height: 100%;
+    background-color: hsla(39, 70%, 47%, 0.301);
+}
+
+.vertical-text{
+    position: absolute;
+    transform: rotate(90deg);
+    /* width: 100%; */
+    right: -56%;
+    top: -5%;
+    transform-origin: 0% 0%;
+}
+
+.vertical-text h1{
+    font-family: monument;
+    font-size: 85px;
+    font-weight: 900;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #fff;
+    color: transparent;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+}
