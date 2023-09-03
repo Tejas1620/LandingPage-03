@@ -4,8 +4,7 @@ This readme file provides instructions and information about the HTML and CSS la
 
 ## Project Overview
 
-This project aims to create a beautiful and responsive landing page using HTML and CSS. The design inspiration is from Suzanna Zumpel's Dribbble shot. We will implement the design, making it responsive and user-friendly for different devices and screen sizes.
-
+This project aims to create a beautiful and responsive landing page using HTML and CSS. The design inspiration is from Suzanna Zumpel's Dribbble shot.
 ## Design Inspiration
 
 The design inspiration for this landing page project can be found [here](https://dribbble.com/shots/5349577-Suzanna-Zumpel?utm_source=Pinterest_Shot&utm_campaign=advancedgroup&utm_content=Suzanna+Zumpel&utm_medium=Social_Share). Please refer to this link to get a clear understanding of the design and its visual elements.
