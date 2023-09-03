@@ -41,7 +41,7 @@ Follow these steps to set up the HTML CSS landing page project on your local mac
 
 - `index.html`: This is the main HTML file for the landing page. Customize it to match the structure and content of your landing page.
 
-- `styles/style.css`: This is the main CSS file where you will define the styles for your landing page. You can create additional CSS files for specific sections or components if needed.
+- `style.css`: This is the main CSS file where you will define the styles for your landing page. You can create additional CSS files for specific sections or components if needed.
 
 - `imgs/`: Store your images in this directory. Make sure to optimize images for web use to ensure fast page loading.
 
